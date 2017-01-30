@@ -1,18 +1,10 @@
 li:hover {
-	background-image: linear-gradient(rgb(255, 204, 0) ,rgb(230, 184, 0));
+	background-image: linear-gradient(white ,rgb(230, 230, 230));
 
 }
 
 li a:hover {
 	color: black;}
 
-
-#all:hover {
-    background-image: linear-gradient(rgb(26, 26, 26),rgb(13, 13, 13) );
-
-}
-
-#all a:hover {
-	color: rgb(255, 204, 0);}
 
 
