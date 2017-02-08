@@ -52,7 +52,7 @@ li a {
 }
 
 
-#all{
+#focus{
 
 	background-image: linear-gradient(white ,rgb(230, 230, 230));
 
@@ -60,7 +60,7 @@ li a {
 
 }
 
-#all a {
+#focus a {
 	color: black;
 
 }
